@@ -7,6 +7,9 @@
       max-width: 400px;
       margin: 0 auto;
     }
+    #board-container{
+		display:none;
+	}
     .board {
       display: grid;
       grid-template-columns: repeat(3, 100px);
